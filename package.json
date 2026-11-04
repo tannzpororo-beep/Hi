@@ -1,0 +1,9 @@
+{
+  "name": "stickman-arena-offline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline PWA game source. No runtime dependencies.",
+  "scripts": {
+    "serve": "python -m http.server 8080"
+  }
+}
